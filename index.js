@@ -18,8 +18,8 @@ mongoose
   });
 
 app.get("/", (req, res) => {
-  console.log('send guru');
-  res.send("Server is up and running");
+  
+  res.send("Server is up and running!!!");
 });
 
 
