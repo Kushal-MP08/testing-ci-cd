@@ -18,7 +18,7 @@ mongoose
   });
 
 app.get("/", (req, res) => {
-  res.send("Server running!");
+  res.send("Server is up and running");
 });
 
 
