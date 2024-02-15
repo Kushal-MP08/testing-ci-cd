@@ -19,7 +19,7 @@ mongoose
 
 app.get("/", (req, res) => {
   
-  res.send("Server is up and running!!!11111");
+  res.send("Haji and kushal ");
 });
 
 
