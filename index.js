@@ -19,7 +19,7 @@ mongoose
 
 app.get("/", (req, res) => {
   
-  res.send("Server is up and running for the qatesting ci/cd");
+  res.send("Server is up and running for the qatesting ci/cds");
 });
 
 
